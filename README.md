@@ -1,3 +1,2 @@
 # Contactless-Attendance-System
-testing pull request
-prasun lasun anna ganna forever
+Built a contactless attendance system on android studio for android devices.
